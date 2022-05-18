@@ -12,6 +12,9 @@ class Signup : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
+
+        supportActionBar
+
         btnSignup = findViewById(R.id.btnSignup)
         btnSignup.setOnClickListener {
             val intent = Intent(this, Signup_account::class.java)

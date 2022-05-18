@@ -19,12 +19,6 @@
             android:name=".Login"
             android:exported="false" />
         <activity
-            android:name=".Signin"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
