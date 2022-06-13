@@ -6,9 +6,12 @@
         <entry key="app/src/main/res/drawable/button.xml" value="0.127" />
         <entry key="app/src/main/res/drawable/custom_button.xml" value="0.1365" />
         <entry key="app/src/main/res/drawable/gradient_color.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.2005" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.17864583333333334" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_signin.xml" value="0.14" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_signup_account.xml" value="0.25" />
